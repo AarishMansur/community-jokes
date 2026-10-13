@@ -1,0 +1,5 @@
+{
+  "id": "174",
+  "setup": "I migrated my codebase to TypeScript to eliminate bugs.",
+  "punchline": "Now the bugs come with proper interfaces. :)"
+}
